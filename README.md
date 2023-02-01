@@ -1,4 +1,4 @@
-Project Name : Customer_Risk-Churn_Analysis_Dashboard
+Project Name : Customer Risk Or Churn Analysis Dashboard
 
 Inputs : 
 
