@@ -2,7 +2,6 @@ Project Name : Customer Risk Or Churn Analysis Dashboard
 
 Inputs : 
 
-
 • Customers who left within the last month.
 
 • Services each customer has signed up for: phone, multiple lines, internet, online security, online backup, device protection, tech
